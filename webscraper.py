@@ -4,3 +4,10 @@ url = "https://www.rightmove.co.uk/property-for-sale/find.html?searchType=SALE&l
 rm = RightmoveData(url)
 
 print(rm.average_price)
+print()
+print
+print(rm.get_results)
+
+
+
+
