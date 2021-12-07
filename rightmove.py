@@ -7,3 +7,6 @@ average_price = rm.average_price
 
 print(average_price)
 
+print(rm.get_results)
+
+print(rm.summary())
